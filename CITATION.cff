@@ -1,0 +1,41 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Geodesic distance with fixed parametrization for 2D Shapes (GD4Shapes)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Herold-Garcia
+    given-names: Silena
+    email: silena.herold@gmail.com
+    affiliation: >-
+      Center for Risk Analysis and Environmental Modeling (CEERMA),
+      Federal University of Pernambuco. Recife, PE, Brazil.
+    orcid: 'https://orcid.org/0000-0001-9238-3472'
+  - family-names: Varona
+    given-names: Humberto L.
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Center for Risk Analysis and Environmental Modeling (CEERMA),
+      Federal University of Pernambuco. Recife, PE, Brazil.
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+repository-code: 'https://doi.org/10.5281/zenodo.14179550'
+abstract: >-
+  GD4Shapes allows obtaining the geodesic distance between shapes by considering
+  a fixed parameterization of these shapes, which takes into account their
+  alignment under certain conditions. This approach speeds up the calculation
+  of the distance and significantly reduces computational costs, since the
+  entire iterative process involved in obtaining the geodesic distance by
+  considering all the reparameterizations of one of the shapes is eliminated.
+keywords:
+  - Geodesic distance
+  - Shape space
+  - Fixed parametrization
+  - Shape analysis
+license: CC-BY-NC-4.0
+version: '1.0'
+date-released: '2024-01-21'
