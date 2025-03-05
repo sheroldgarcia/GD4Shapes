@@ -14,7 +14,7 @@
 
 # License
 
-CC-BY-NC-4.0
+CC-BY-4.0
 
 # Description
 
